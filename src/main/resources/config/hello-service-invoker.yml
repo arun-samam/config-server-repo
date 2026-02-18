@@ -1,0 +1,3 @@
+hello:
+  service:
+    url: ${HELLO_SERVICE_URL:http://localhost:8081}
